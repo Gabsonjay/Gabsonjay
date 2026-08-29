@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 ICDFA Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/Gabsonjay/Lab-2-USB-Image-Acquisition-and-Hash-Verification/blob/main/README.md)
-  - [Active Directory Home Lab](https://github.com/Gabsonjay/-Digital-Forensics-Case-Handling)
+  - [Active Directory Home Lab For USB Image Acquisition and Hash Verification ](https://github.com/Gabsonjay/Lab-2-USB-Image-Acquisition-and-Hash-Verification/blob/main/README.md)
+  - [Active Directory Home Lab For Digital Forensics Case ](https://github.com/Gabsonjay/-Digital-Forensics-Case-Handling)
 
 
 
