@@ -4,6 +4,7 @@
 
   - [Active Directory Home Lab For USB Image Acquisition and Hash Verification ](https://github.com/Gabsonjay/Lab-2-USB-Image-Acquisition-and-Hash-Verification/blob/main/README.md)
   - [Active Directory Home Lab For Digital Forensics Case ](https://github.com/Gabsonjay/-Digital-Forensics-Case-Handling)
+  -[Active Directory Home Lab For Digital Forensics Case ](https://github.com/Gabsonjay/Steganography-and-Hidden-Data-Detection/blob/main/README.md)
 
 
 
