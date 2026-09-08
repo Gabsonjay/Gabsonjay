@@ -6,6 +6,7 @@
   - [Active Directory Home Lab For Digital Forensics Case ](https://github.com/Gabsonjay/-Digital-Forensics-Case-Handling)
   -[Active Directory Home Lab For Digital Forensics Case ](https://github.com/Gabsonjay/Steganography-and-Hidden-Data-Detection/blob/main/README.md)
  -[Active Directory Home Lab For Digital Forensics Case ](https://github.com/Gabsonjay/Data-Carving-with-XXD-Binwalk-and-Scalpel)
+-[Active Directory Home Lab For Digital Forensics Case ](https://github.com/Gabsonjay/-HTTP-Analysis-Using-Wireshark-Text-Traffic)
 
 
 
